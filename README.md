@@ -19,9 +19,9 @@
 
 ## 📸 See It In Action
 
-![DVSA Interface 1](assets/screenshot1.png)
-![DVSA Interface 2](assets/screenshot2.png)
-![DVSA Settings](assets/screenshot3.png)
+![DVSA Interface 1](screenshot1.png)
+![DVSA Interface 2](screenshot2.png)
+![DVSA Settings](screenshot3.png)
 
 ---
 
