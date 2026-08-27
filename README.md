@@ -20,8 +20,11 @@
 ## 📸 See It In Action
 
 ![DVSA Interface 1](screenshot1.png)
-![DVSA Interface 2](screenshot2.png)
-![DVSA Settings](screenshot3.png)
+
+<p align="center">
+  <img src="screenshot2.png" alt="DVSA Interface 2" width="48%" />
+  <img src="screenshot3.png" alt="DVSA Settings" width="48%" />
+</p>
 
 ---
 
