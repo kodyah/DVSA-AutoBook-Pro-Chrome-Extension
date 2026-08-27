@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚗 DVSA AutoBook Pro | The Ultimate 0ms Driving Test Cancellation Bot
+# 🚗 DVSA AutoBook Pro | The Ultimate 0ms Driving Test Reservation Bot
 
 ![Version](https://img.shields.io/badge/Version-v2.1.0-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Commercial-red?style=for-the-badge)
